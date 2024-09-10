@@ -49,11 +49,14 @@ The steps for this model were, first to load the Model and Tokenizer, using the 
 
 ![Example Image](images/r2.png)
 
-## 2 Model : BERT (Bidirectional Encoder Representations from Transformers)
+## 3 Model : BERT (Bidirectional Encoder Representations from Transformers)
 
 The steps taken here are similar to the RoBERTa Model, nlptown/bert-base-multilingual-uncased-sentiment was used for sentiment analysis, a sentiment_score function that tokenizes test was created and applied the the DataFrame, giving back scores ranging from 1 to 5.
 
-![Example Image](images/b1.png)
+![Example Image](images/b3.png)
 
 ![Example Image](images/b2.png)
+
+
+
 
