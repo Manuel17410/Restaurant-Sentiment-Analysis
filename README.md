@@ -28,4 +28,8 @@
 
 ## Exploratory Data Analysis
 
+Graph to understand the distribution of the Ratings
+
+![Example Image](images/d.png)
+
 
