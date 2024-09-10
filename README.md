@@ -19,3 +19,13 @@
 - RoBERTa (https://huggingface.co/docs/transformers/model_doc/roberta)
 
 **Dataset**: https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
+
+## Data Cleaning
+
+- Null values were dropped
+- Punctuation, URLS, Hashtahs, stopwords were removed, contractions were converted to their expanded form and all the reviews were converted to lowercase
+- The reviews were tokenized
+
+## Exploratory Data Analysis
+
+
